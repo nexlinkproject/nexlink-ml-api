@@ -1,4 +1,4 @@
-# Backend for Project Planning App
+# Backend for Nexlink ML API
 
 This directory contains the FastAPI backend application.
 
