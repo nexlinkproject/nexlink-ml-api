@@ -1,5 +1,0 @@
-pandas
-scikit-learn
-joblib
-google-cloud-storage
-google-cloud-bigquery
