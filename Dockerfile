@@ -2,12 +2,14 @@ FROM python:3.9-slim
 
 WORKDIR /app
 
-COPY requirements.txt .
+COPY requirements.txt /app
 
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-COPY . .
+COPY . /app
 
-EXPOSE 3001
+EXPOSE 80
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+ENV PYTHONUNBUFFERED=1
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
