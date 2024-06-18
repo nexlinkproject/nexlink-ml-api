@@ -16,7 +16,7 @@
 
 **Endpoint**
 
-`POST /transform_and_schedule
+POST /transform_and_schedule
 
 **Headers**
 
