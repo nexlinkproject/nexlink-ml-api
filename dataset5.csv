@@ -399,106 +399,106 @@ Menyiapkan server dengan spesifikasi yang memadai untuk menjalankan model deep l
 Menyiapkan server dengan kemampuan pemrosesan data yang tinggi untuk deployment dan analisis data pasar saham secara real-time,Deployment,15
 Menyiapkan server dengan spesifikasi yang memadai untuk deployment dan menjalankan model deep learning serta memproses video real-time,Deployment,15
 "Menyiapkan server lokal atau cloud (misalnya, AWS, Google Cloud, Azure) untuk deployment dan hosting aplikasi SIMRS (Sistem Informasi Manajemen Rumah Sakit)",Deployment,15
-Desain UI awal untuk landing page produk,Desain UI/UX,
-Wireframe UX untuk alur pembelian,Desain UI/UX,
-Pembuatan mockup UI aplikasi mobile,Desain UI/UX,
-Revisi desain UI berdasarkan feedback pengguna,Desain UI/UX,
-Pembuatan prototipe interaktif untuk pengujian UX,Desain UI/UX,
-Uji coba UX dengan pengguna potensial,Desain UI/UX,
-Analisis hasil uji coba UX dan rekomendasi perbaikan UI,Desain UI/UX,
-Pembuatan style guide UI untuk konsistensi desain,Desain UI/UX,
-Implementasi desain UI ke dalam kode HTML/CSS,Desain UI/UX,
-Integrasi desain UI dengan backend aplikasi,Desain UI/UX,
-Pembuatan ikon dan ilustrasi untuk UI,Desain UI/UX,
-Pemilihan tipografi yang sesuai untuk UI,Desain UI/UX,
-Pembuatan animasi microinteraction untuk UI,Desain UI/UX,
-Optimasi desain UI untuk berbagai ukuran layar,Desain UI/UX,
-Pembuatan desain UI untuk mode gelap (dark mode),Desain UI/UX,
-Pembuatan desain UI untuk aksesibilitas,Desain UI/UX,
-Desain ulang UI untuk meningkatkan konversi,Desain UI/UX,
-Pembuatan komponen UI yang dapat digunakan kembali,Desain UI/UX,
-Dokumentasi desain UI untuk tim pengembangan,Desain UI/UX,
-Presentasi desain UI kepada stakeholders,Desain UI/UX,
-Pembuatan user flow untuk fitur baru dengan fokus UX,Desain UI/UX,
-Pembuatan sitemap untuk website dengan mempertimbangkan UX,Desain UI/UX,
-Pembuatan persona pengguna untuk riset UX,Desain UI/UX,
-Pembuatan user journey map untuk memahami pengalaman pengguna (UX),Desain UI/UX,
-Analisis kompetitor untuk mendapatkan insight desain UI/UX,Desain UI/UX,
-Riset tren desain UI/UX terbaru,Desain UI/UX,
-Pembuatan moodboard untuk menentukan arah desain visual UI,Desain UI/UX,
-Pembuatan storyboard untuk menggambarkan interaksi pengguna (UX),Desain UI/UX,
-Pembuatan wireframe UX untuk aplikasi desktop,Desain UI/UX,
-Pembuatan mockup UI untuk dashboard admin,Desain UI/UX,
-Revisi desain UX berdasarkan hasil pengujian A/B,Desain UI/UX,
-Pembuatan prototipe interaktif dengan animasi high-fidelity untuk meningkatkan UX,Desain UI/UX,
-Uji coba UX dengan metode eye-tracking,Desain UI/UX,
-Analisis data kuantitatif dan kualitatif dari uji coba UX,Desain UI/UX,
-Pembuatan laporan hasil uji coba UX yang komprehensif,Desain UI/UX,
-Pembuatan design system untuk skalabilitas desain UI,Desain UI/UX,
-Implementasi desain UI dengan framework CSS seperti Tailwind CSS,Desain UI/UX,
-Integrasi desain UI dengan sistem manajemen konten (CMS) untuk kemudahan update,Desain UI/UX,
-Pembuatan ilustrasi 3D untuk UI yang imersif,Desain UI/UX,
-Pemilihan palet warna yang sesuai dengan brand identity untuk UI,Desain UI/UX,
-Pembuatan animasi loading yang menarik untuk meningkatkan UX,Desain UI/UX,
-Optimasi desain UI untuk performa website yang cepat,Desain UI/UX,
-Pembuatan desain UI untuk mode offline agar tetap fungsional,Desain UI/UX,
-Pembuatan desain UI untuk pengguna dengan disabilitas visual untuk meningkatkan aksesibilitas,Desain UI/UX,
-Desain ulang UI untuk meningkatkan engagement pengguna,Desain UI/UX,
-Pembuatan library komponen UI yang lengkap untuk konsistensi desain,Desain UI/UX,
-Dokumentasi desain UI dengan tool seperti Zeplin atau Figma,Desain UI/UX,
-Presentasi desain UI kepada stakeholders dengan fokus pada peningkatan UX,Desain UI/UX,
-Pembuatan user flow untuk onboarding pengguna baru dengan memperhatikan UX,Desain UI/UX,
-Pembuatan sitemap untuk aplikasi mobile dengan mempertimbangkan alur UX,Desain UI/UX,
-Sketsa awal konsep UI untuk aplikasi baru,Desain UI/UX,
-Peninjauan ulang wireframe UX untuk navigasi,Desain UI/UX,
-Pembuatan mockup UI halaman produk e-commerce,Desain UI/UX,
-Iterasi desain UI berdasarkan masukan dari tim marketing,Desain UI/UX,
-Pengembangan prototipe UX untuk fitur onboarding,Desain UI/UX,
-Pengujian A/B untuk membandingkan dua versi desain UI,Desain UI/UX,
-Evaluasi metrik UX seperti tingkat konversi dan waktu penyelesaian tugas,Desain UI/UX,
-Pembuatan style guide UI untuk aplikasi web,Desain UI/UX,
-Implementasi desain UI dengan React atau Vuejs,Desain UI/UX,
-Integrasi animasi UI untuk meningkatkan interaksi pengguna,Desain UI/UX,
-Pembuatan ikon kustom untuk memperkuat branding,Desain UI/UX,
-Pemilihan font yang mudah dibaca dan sesuai dengan gaya visual,Desain UI/UX,
-Desain microinteraction untuk tombol dan elemen UI lainnya,Desain UI/UX,
-Optimasi UI untuk tampilan mobile-first,Desain UI/UX,
-Implementasi mode gelap pada UI aplikasi,Desain UI/UX,
-Penyesuaian desain UI untuk memenuhi standar aksesibilitas WCAG,Desain UI/UX,
-Desain ulang UI untuk meningkatkan user engagement,Desain UI/UX,
-Pembuatan sistem desain UI yang komprehensif,Desain UI/UX,
-Dokumentasi perubahan desain UI dalam changelog,Desain UI/UX,
-Presentasi wireframe UX kepada tim pengembangan,Desain UI/UX,
-Pemetaan user flow untuk proses checkout,Desain UI/UX,
-Pembuatan sitemap untuk aplikasi SaaS,Desain UI/UX,
-Pengembangan persona pengguna untuk target audiens yang berbeda,Desain UI/UX,
-Analisis user journey untuk mengidentifikasi pain point,Desain UI/UX,
-Studi kompetitor untuk melihat tren desain UI/UX,Desain UI/UX,
-Riset pengguna untuk memahami kebutuhan dan preferensi,Desain UI/UX,
-Pembuatan mood board untuk menentukan estetika visual,Desain UI/UX,
-Pembuatan storyboard untuk menggambarkan interaksi pengguna,Desain UI/UX,
-Desain UX untuk aplikasi augmented reality (AR),Desain UI/UX,
-Pembuatan mockup UI untuk perangkat wearable,Desain UI/UX,
-Revisi desain UI berdasarkan data analitik,Desain UI/UX,
-Pembuatan prototipe interaktif dengan transisi yang halus,Desain UI/UX,
-Uji coba UX dengan menggunakan heatmap,Desain UI/UX,
-Analisis tingkat keberhasilan pengguna dalam menyelesaikan tugas,Desain UI/UX,
-Pembuatan laporan UX dengan rekomendasi yang dapat ditindaklanjuti,Desain UI/UX,
-Pembuatan komponen UI yang responsif terhadap berbagai ukuran layar,Desain UI/UX,
-Implementasi desain UI dengan framework CSS seperti Bootstrap,Desain UI/UX,
-Integrasi desain UI dengan sistem otentikasi pengguna,Desain UI/UX,
-Pembuatan ilustrasi vektor untuk UI yang modern,Desain UI/UX,
-Pemilihan skema warna yang menarik dan mudah diingat,Desain UI/UX,
-Desain animasi UI untuk transisi halaman yang mulus,Desain UI/UX,
-Optimasi UI untuk kecepatan loading halaman,Desain UI/UX,
-Pembuatan desain UI untuk aplikasi offline-first,Desain UI/UX,
-Desain UI dengan mempertimbangkan pengguna dengan gangguan penglihatan,Desain UI/UX,
-Desain ulang UI untuk meningkatkan tingkat retensi pengguna,Desain UI/UX,
-Pembuatan library komponen UI yang dapat disesuaikan,Desain UI/UX,
-Dokumentasi interaksi UI dengan menggunakan video,Desain UI/UX,
-Presentasi desain UI kepada klien dengan fokus pada solusi masalah,Desain UI/UX,
-Pembuatan user flow untuk fitur pendaftaran akun,Desain UI/UX,
-Pembuatan sitemap untuk aplikasi multi-platform,Desain UI/UX,
+Desain UI awal untuk landing page produk,Desain UI/UX,30
+Wireframe UX untuk alur pembelian,Desain UI/UX,30
+Pembuatan mockup UI aplikasi mobile,Desain UI/UX,30
+Revisi desain UI berdasarkan feedback pengguna,Desain UI/UX,30
+Pembuatan prototipe interaktif untuk pengujian UX,Desain UI/UX,30
+Uji coba UX dengan pengguna potensial,Desain UI/UX,30
+Analisis hasil uji coba UX dan rekomendasi perbaikan UI,Desain UI/UX,30
+Pembuatan style guide UI untuk konsistensi desain,Desain UI/UX,30
+Implementasi desain UI ke dalam kode HTML/CSS,Desain UI/UX,30
+Integrasi desain UI dengan backend aplikasi,Desain UI/UX,30
+Pembuatan ikon dan ilustrasi untuk UI,Desain UI/UX,30
+Pemilihan tipografi yang sesuai untuk UI,Desain UI/UX,30
+Pembuatan animasi microinteraction untuk UI,Desain UI/UX,30
+Optimasi desain UI untuk berbagai ukuran layar,Desain UI/UX,30
+Pembuatan desain UI untuk mode gelap (dark mode),Desain UI/UX,30
+Pembuatan desain UI untuk aksesibilitas,Desain UI/UX,30
+Desain ulang UI untuk meningkatkan konversi,Desain UI/UX,30
+Pembuatan komponen UI yang dapat digunakan kembali,Desain UI/UX,30
+Dokumentasi desain UI untuk tim pengembangan,Desain UI/UX,30
+Presentasi desain UI kepada stakeholders,Desain UI/UX,30
+Pembuatan user flow untuk fitur baru dengan fokus UX,Desain UI/UX,30
+Pembuatan sitemap untuk website dengan mempertimbangkan UX,Desain UI/UX,30
+Pembuatan persona pengguna untuk riset UX,Desain UI/UX,30
+Pembuatan user journey map untuk memahami pengalaman pengguna (UX),Desain UI/UX,30
+Analisis kompetitor untuk mendapatkan insight desain UI/UX,Desain UI/UX,30
+Riset tren desain UI/UX terbaru,Desain UI/UX,30
+Pembuatan moodboard untuk menentukan arah desain visual UI,Desain UI/UX,30
+Pembuatan storyboard untuk menggambarkan interaksi pengguna (UX),Desain UI/UX,30
+Pembuatan wireframe UX untuk aplikasi desktop,Desain UI/UX,30
+Pembuatan mockup UI untuk dashboard admin,Desain UI/UX,30
+Revisi desain UX berdasarkan hasil pengujian A/B,Desain UI/UX,30
+Pembuatan prototipe interaktif dengan animasi high-fidelity untuk meningkatkan UX,Desain UI/UX,30
+Uji coba UX dengan metode eye-tracking,Desain UI/UX,30
+Analisis data kuantitatif dan kualitatif dari uji coba UX,Desain UI/UX,30
+Pembuatan laporan hasil uji coba UX yang komprehensif,Desain UI/UX,30
+Pembuatan design system untuk skalabilitas desain UI,Desain UI/UX,30
+Implementasi desain UI dengan framework CSS seperti Tailwind CSS,Desain UI/UX,30
+Integrasi desain UI dengan sistem manajemen konten (CMS) untuk kemudahan update,Desain UI/UX,30
+Pembuatan ilustrasi 3D untuk UI yang imersif,Desain UI/UX,30
+Pemilihan palet warna yang sesuai dengan brand identity untuk UI,Desain UI/UX,30
+Pembuatan animasi loading yang menarik untuk meningkatkan UX,Desain UI/UX,30
+Optimasi desain UI untuk performa website yang cepat,Desain UI/UX,30
+Pembuatan desain UI untuk mode offline agar tetap fungsional,Desain UI/UX,30
+Pembuatan desain UI untuk pengguna dengan disabilitas visual untuk meningkatkan aksesibilitas,Desain UI/UX,30
+Desain ulang UI untuk meningkatkan engagement pengguna,Desain UI/UX,30
+Pembuatan library komponen UI yang lengkap untuk konsistensi desain,Desain UI/UX,30
+Dokumentasi desain UI dengan tool seperti Zeplin atau Figma,Desain UI/UX,30
+Presentasi desain UI kepada stakeholders dengan fokus pada peningkatan UX,Desain UI/UX,30
+Pembuatan user flow untuk onboarding pengguna baru dengan memperhatikan UX,Desain UI/UX,30
+Pembuatan sitemap untuk aplikasi mobile dengan mempertimbangkan alur UX,Desain UI/UX,30
+Sketsa awal konsep UI untuk aplikasi baru,Desain UI/UX,30
+Peninjauan ulang wireframe UX untuk navigasi,Desain UI/UX,30
+Pembuatan mockup UI halaman produk e-commerce,Desain UI/UX,30
+Iterasi desain UI berdasarkan masukan dari tim marketing,Desain UI/UX,30
+Pengembangan prototipe UX untuk fitur onboarding,Desain UI/UX,30
+Pengujian A/B untuk membandingkan dua versi desain UI,Desain UI/UX,30
+Evaluasi metrik UX seperti tingkat konversi dan waktu penyelesaian tugas,Desain UI/UX,30
+Pembuatan style guide UI untuk aplikasi web,Desain UI/UX,30
+Implementasi desain UI dengan React atau Vuejs,Desain UI/UX,30
+Integrasi animasi UI untuk meningkatkan interaksi pengguna,Desain UI/UX,30
+Pembuatan ikon kustom untuk memperkuat branding,Desain UI/UX,30
+Pemilihan font yang mudah dibaca dan sesuai dengan gaya visual,Desain UI/UX,30
+Desain microinteraction untuk tombol dan elemen UI lainnya,Desain UI/UX,30
+Optimasi UI untuk tampilan mobile-first,Desain UI/UX,30
+Implementasi mode gelap pada UI aplikasi,Desain UI/UX,30
+Penyesuaian desain UI untuk memenuhi standar aksesibilitas WCAG,Desain UI/UX,30
+Desain ulang UI untuk meningkatkan user engagement,Desain UI/UX,30
+Pembuatan sistem desain UI yang komprehensif,Desain UI/UX,30
+Dokumentasi perubahan desain UI dalam changelog,Desain UI/UX,30
+Presentasi wireframe UX kepada tim pengembangan,Desain UI/UX,30
+Pemetaan user flow untuk proses checkout,Desain UI/UX,30
+Pembuatan sitemap untuk aplikasi SaaS,Desain UI/UX,30
+Pengembangan persona pengguna untuk target audiens yang berbeda,Desain UI/UX,30
+Analisis user journey untuk mengidentifikasi pain point,Desain UI/UX,30
+Studi kompetitor untuk melihat tren desain UI/UX,Desain UI/UX,30
+Riset pengguna untuk memahami kebutuhan dan preferensi,Desain UI/UX,30
+Pembuatan mood board untuk menentukan estetika visual,Desain UI/UX,30
+Pembuatan storyboard untuk menggambarkan interaksi pengguna,Desain UI/UX,30
+Desain UX untuk aplikasi augmented reality (AR),Desain UI/UX,30
+Pembuatan mockup UI untuk perangkat wearable,Desain UI/UX,30
+Revisi desain UI berdasarkan data analitik,Desain UI/UX,30
+Pembuatan prototipe interaktif dengan transisi yang halus,Desain UI/UX,30
+Uji coba UX dengan menggunakan heatmap,Desain UI/UX,30
+Analisis tingkat keberhasilan pengguna dalam menyelesaikan tugas,Desain UI/UX,30
+Pembuatan laporan UX dengan rekomendasi yang dapat ditindaklanjuti,Desain UI/UX,30
+Pembuatan komponen UI yang responsif terhadap berbagai ukuran layar,Desain UI/UX,30
+Implementasi desain UI dengan framework CSS seperti Bootstrap,Desain UI/UX,30
+Integrasi desain UI dengan sistem otentikasi pengguna,Desain UI/UX,30
+Pembuatan ilustrasi vektor untuk UI yang modern,Desain UI/UX,30
+Pemilihan skema warna yang menarik dan mudah diingat,Desain UI/UX,30
+Desain animasi UI untuk transisi halaman yang mulus,Desain UI/UX,30
+Optimasi UI untuk kecepatan loading halaman,Desain UI/UX,30
+Pembuatan desain UI untuk aplikasi offline-first,Desain UI/UX,30
+Desain UI dengan mempertimbangkan pengguna dengan gangguan penglihatan,Desain UI/UX,30
+Desain ulang UI untuk meningkatkan tingkat retensi pengguna,Desain UI/UX,30
+Pembuatan library komponen UI yang dapat disesuaikan,Desain UI/UX,30
+Dokumentasi interaksi UI dengan menggunakan video,Desain UI/UX,30
+Presentasi desain UI kepada klien dengan fokus pada solusi masalah,Desain UI/UX,30
+Pembuatan user flow untuk fitur pendaftaran akun,Desain UI/UX,30
+Pembuatan sitemap untuk aplikasi multi-platform,Desain UI/UX,30
 Mendesain wireframe dan mockup UI/UX untuk aplikasi mobile e-commerce,Desain UI/UX,30
 Membuat prototype interaktif UI/UX untuk aplikasi fintech,Desain UI/UX,30
 Mendesain ulang tampilan UI/UX website perusahaan,Desain UI/UX,30

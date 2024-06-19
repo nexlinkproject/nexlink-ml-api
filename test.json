@@ -1,0 +1,22 @@
+{
+    "data": {
+        "tasks": [
+            {
+                "taskId": "2",
+                "name": "buat front end",
+                "startDate": "2024-01-02",
+                "userID": "1",
+                "projectId": "1",
+                "deadline": "2024-12-12"
+            },
+            {
+                "taskId": "1",
+                "name": "Implementasi fitur social login pada back end",
+                "startDate": "2024-01-02",
+                "userID": "2",
+                "projectId": "1",
+                "deadline": "2024-12-12"
+            }
+        ]
+    }
+}

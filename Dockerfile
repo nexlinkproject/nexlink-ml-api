@@ -1,25 +1,20 @@
-FROM ubuntu:22.04
-
-ENV PYTHONUNBUFFERED=1
-
-RUN apt-get update && \
-    apt-get install -y python3.11 python3.11-venv python3-pip && \
-    apt-get install -y libatlas-base-dev && \
-    apt-get clean
+# Use the official Python image from the Docker Hub
+FROM python:3.9-slim
 
 # Set the working directory
 WORKDIR /app
 
-# Copy the requirements file and install dependencies
-COPY requirements.txt /app/
-RUN apt-get update && apt-get install -y python3-pip
-RUN pip3 install --no-cache-dir -r requirements.txt
+# Copy the requirements file into the container
+COPY requirements.txt .
 
-# Copy the rest of the application code
-COPY . /app
+# Install the required packages
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Expose the port the app runs on
-EXPOSE 80
+# Copy the rest of the application code into the container
+COPY . .
 
-# Specify the command to run the application
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80", "--reload"]
+# Expose the port that Flask/Gunicorn will listen on
+EXPOSE 8080
+
+# Command to run the Flask application using Gunicorn
+CMD ["gunicorn", "-b", "0.0.0.0:8080", "main:app"]
