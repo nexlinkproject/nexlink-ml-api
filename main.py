@@ -10,7 +10,7 @@ import re
 import pickle
 from flask import Flask, request, jsonify
 from pydantic import BaseModel
-from typing import List, Union
+from typing import List, Union, Optional
 import logging
 
 app = Flask(__name__)
@@ -65,7 +65,7 @@ class Task(BaseModel):
     name: str
     startDate: str
     deadline: str
-    userID: Union[str, List[str]]  # Updated to handle both single and multiple user IDs
+    userID: Union[Optional[str], List[str]]  # Updated to handle both single and multiple user IDs
     projectId: str
 
 class RequestData(BaseModel):
